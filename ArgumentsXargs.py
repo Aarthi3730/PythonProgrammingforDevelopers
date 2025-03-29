@@ -3,4 +3,4 @@ def multiply(*list):
     for number in list:
         total*=number
     return total
-print(multiply(2,3,4,5))
+print(multiply(5,4,6,7))
