@@ -1,0 +1,10 @@
+point=(1,2)+(3,4)
+print(point)
+a=(1,2)*3
+print(a)
+b=tuple([1,2])
+print(b)
+c=tuple("Hello World")
+print(c)
+d=(1,2,3)
+print(d[0:2])
