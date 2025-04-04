@@ -9,3 +9,4 @@ filtered = [item for item in items if item[1] >= 10]
 
 print(prices)
 print(filtered)
+####
