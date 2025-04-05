@@ -8,3 +8,5 @@ def code2():
 
 print("firstcode:", timeit.timeit(code1, number=10000))
 print("secondcode:", timeit.timeit(code2, number=10000))
+
+#print
